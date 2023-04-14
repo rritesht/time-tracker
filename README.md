@@ -1,4 +1,4 @@
-# Time Tracker
+# Time Tracker gu nit yaroo
 
 Java (Maven) application for tracking time on the job
 
